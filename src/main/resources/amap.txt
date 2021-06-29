@@ -1,0 +1,5 @@
+{"oid":"o001","uid":"u001","money":99.99,"longitude":115.690417, "latitude":36.239344}
+{"oid":"o002","uid":"u002","money":"1009","longitude":121.51417, "latitude":31.220616}
+{"oid":"o003","uid":"u003","money":"89.99","longitude":106.550464, "latitude":29.563761}
+{"oid":"o005","uid":"u005","money":"125.99","longitude":91.15476608, "latitude":29.67172188}
+{"oid":"o006","uid":"u006","money":"799","longitude":113.274379, "latitude":34.445122}
